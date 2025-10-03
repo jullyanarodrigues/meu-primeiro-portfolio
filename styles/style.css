@@ -110,6 +110,7 @@ body {
 
 .foto-jully {
    width: 50%;
+   height: auto;
 }
 
 .rodape {
@@ -139,7 +140,12 @@ body {
       width: 100%;
       box-sizing: border-box;
    }
+
+   .foto-jully {
+      width: 100%;  
+   }
 }
+
 
 
 
